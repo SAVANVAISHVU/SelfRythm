@@ -1,6 +1,6 @@
 module.exports = {
-    token: "your token",
-    prefix: "your prefix"
+    token: "ODQ1MTk1NDg3MDA3MjExNTcw.YSMnXg.UUSF2hC_e0CiOhObOD-utE0u8yU",
+    prefix: "$"
 };
 
 /* remove .example from the name of this file */
